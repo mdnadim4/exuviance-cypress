@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.exuviance.com",
+    "chromeWebSecurity": false,
+    "failOnStatusCode": false,
+    "pageLoadTimeout": 60000,
+    "viewportWidth": 1366,
+    "viewportHeight": 768
+
+}
